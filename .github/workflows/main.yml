@@ -13,7 +13,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Run bash script
-        run: bash ksunxt.sh
+        run: bash .github/scripts/ksunxt.sh
 
 
 
